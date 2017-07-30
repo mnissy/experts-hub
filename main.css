@@ -1,0 +1,34 @@
+p{color:orange;font-size:16px;}
+div{
+border:6px solid #949599;
+height:100px;
+margin:20px;
+padding:20px;
+width:400px;
+}
+
+code{
+background:#eaeaed;
+color:#666;
+font:14px/24px "Source code Pro",Inconsolata,"Lucida Console",Terminal,"Courier new",Courier;
+display:inline-block;
+height:70px;
+margin:0 14px;
+padding_top:20px;
+text_align:center;
+width:90px;
+}
+.border-solid{border:2px solid #9799a7;
+ }
+ .border-double{border:6px double #9799a7;
+  }
+  .border-dashed{border:8px dashed #9799a7;
+   }
+.border-dotted{border:4px dotted #9799a7;
+}
+.border-rounded{border-radius:5px;
+}
+.border-circle{border-radius: 50%;
+}
+.border-football{border-radius:15px 75px;
+}
